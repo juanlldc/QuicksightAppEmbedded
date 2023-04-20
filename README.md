@@ -17,7 +17,7 @@ Then proceed with creating an Amplify app. Select "Deploy without GIT Provider" 
 
 Now, return to your AWS console and look up QuickSight. If you don't have a QuickSight account it will prompt you to create a new one.
 
- ![image](images/Screenshot 2023-04-19 205705.png)
+ ![image](images/Screenshot_2023-04-19_205705.png)
 
 In here, select the Enterprise option. We won't be needing Q for this tutorial. DISCLAIMER: This will activate a 30 day free trial. Remember to cancel your QuickSight subscription from within the portal to avoid any unwanted charges!!!
 
