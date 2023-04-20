@@ -21,7 +21,9 @@ Now, return to your AWS console and look up QuickSight. If you don't have a Quic
 
 In here, select the Enterprise option. We won't be needing Q for this tutorial. DISCLAIMER: This will activate a 30 day free trial. Remember to cancel your QuickSight subscription from within the portal to avoid any unwanted charges!!!
 
-Now that you have access to the QuickSight portal, explore the following sections on the left hand of your screen. Datasets is where you connect to data and set up your relational models from. 
+ ![image](Images/Screenshot%202023-04-19%20205731.png)
+
+Now that you have access to the QuickSight portal, explore the following sections on the left hand side of your screen. Datasets is where you connect to data and set up your relational models from. Here, select new dataset in the top right corner and upload the SuperStoreOrders.csv file from this repo.
 
 The Analyses section is where visualizations can be created from the data, combined and arranged together to set up different views. Explore one of the example analyses to familiarize yourself with the interface. 
 
