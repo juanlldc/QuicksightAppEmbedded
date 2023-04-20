@@ -17,6 +17,8 @@ Then proceed with creating an Amplify app. Select "Deploy without GIT Provider" 
 
 Now, return to your AWS console and look up QuickSight. If you don't have a QuickSight account it will prompt you to create a new one.
 
+ ![Tux, the Linux mascot](images/tux.png)
+
 In here, select the Enterprise option. We won't be needing Q for this tutorial. DISCLAIMER: This will activate a 30 day free trial. Remember to cancel your QuickSight subscription from within the portal to avoid any unwanted charges!!!
 
 Now that you have access to the QuickSight portal, explore the following sections on the left hand of your screen. Datasets is where you connect to data and set up your relational models from. 
