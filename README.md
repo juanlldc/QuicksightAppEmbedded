@@ -11,7 +11,13 @@ Before starting this tutorial, you will need an [AWS Free Tier account](https://
 
 In this section we will set up the web app where we will embed our dashboard. Log in to your AWS portal and look up Amplify. In here click on "Getting Started" and select "Host your web app". Follow the instructions to set up Amplify.
 
+ ![image](Images/Screenshot%202023-04-19%20205803.png)
+ 
+ ![image](Images/Screenshot%202023-04-19%20205826.png)
+
 Then proceed with creating an Amplify app. Select "Deploy without GIT Provider" and upload the SampleApp.zip file that you will find in this repo. Give your app and environment meaningful names and click on "Save and Deploy". You will see a link after succesfully deploying the app. Click on it to see what our website currently looks like.
+
+![image](Images/Web%20capture_19-4-2023_151813_us-east-1.console.aws.amazon.com.jpeg)
 
 ## Working on the QuickSight Portal
 
@@ -25,7 +31,11 @@ In here, select the Enterprise option. We won't be needing Q for this tutorial. 
 
 Now that you have access to the QuickSight portal, explore the following sections on the left hand side of your screen. Datasets is where you connect to data and set up your relational models from. Here, select new dataset in the top right corner and upload the SuperStoreOrders.csv file from this repo.
 
+ ![image](Images/Screenshot%202023-04-19%20205731.png)
+
 Click next to continue the import and then click on visualize. This will open the Analysis page, but you will have to wait some 20 seconds until all the data is loaded. You should receive a "Succesful Import" message on the top right of your screen. You can always monitor your dataset imports from the datasets tab.
+
+ ![image](Images/Screenshot%202023-04-19%20205731.png)
 
 The Analyses section is where visualizations can be created from the data, combined and arranged together to set up different views. Let's build our first visualization! From your fields on the left, select Sales, Category and Segment. Then click on the stacked bar visualization icon. You should see a visualization like this.
 
